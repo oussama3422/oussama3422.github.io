@@ -105,7 +105,7 @@ import {
     {
       name: "Social Media App",
       description:
-        "socail media app allow to user to do challenge themslves and post video and more and more.",
+        "social media app allow to user to do challenges,by posting videos and more...",
       tags: [
         {
           name: "Flutter",
