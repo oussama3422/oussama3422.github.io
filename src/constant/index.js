@@ -11,7 +11,7 @@ import {
     git,   
     creaskale,
     flutter,
-    dart,
+    dart, 
     currentWork,
   } from "../assets";
   
@@ -36,7 +36,7 @@ import {
       icon: web,
     },
     {
-      title: "Flutter Developer",
+      title: "Mobile Developer",
       icon: mobile,
     },
   ];
@@ -90,7 +90,19 @@ import {
       company_name: "Creaskale",
       icon: creaskale,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Jan 2023 - Jun 2023",
+      points: [
+        "Developing mobile applications using Flutter.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-mobile compatibility.",
+      ],
+    },
+    {
+      title: "Mobile and Web Developer",
+      company_name: "Numerdiv",
+      icon: creaskale,
+      iconBg: "#E6DEDD",
+      date: "Jun 2023 - Present",
       points: [
         "Developing mobile applications using Flutter.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -113,7 +125,7 @@ import {
         },
       ],
       image: currentWork,
-      source_code_link: "https://github.com/",
+      // source_code_link: "https://github.com/",
     },
   
   ];
